@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://apimusic.maijieduo.tk/:match*"
+      "destination": "https://apimusic.maijieduo.tk/api/:match*"
     }
   ]
 }
